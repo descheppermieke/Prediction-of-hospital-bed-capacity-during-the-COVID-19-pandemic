@@ -10,7 +10,7 @@ The columns are:
 - ONTSLAGDATUM_ZKH: date/time of discharge from hospital
 - OPNAMEDATUM_VPE	: date/time admission on ward
 - OPNAMEDAG_VPE: date admission on ward	
-- ONTSLAGDATUM_VPE: date/time discarge from ward	
+- ONTSLAGDATUM_VPE: date/time discharge from ward	
 - BESTEMMING: destnation from hospital (e.g. home)
 - LIGDUUR_ZKH: length of stay hospital
 - LIGDUUR_VPE: length of stay ward
